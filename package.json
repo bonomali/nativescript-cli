@@ -85,7 +85,7 @@
     "ws": "5.1.0",
     "xcode": "https://github.com/NativeScript/node-xcode/archive/kddimitrov/rebase-upstream.tar.gz",
     "xml2js": "0.4.19",
-    "xmldom": "0.1.21",
+    "xmldom": "0.5.0",
     "yargs": "6.0.0",
     "zipstream": "https://github.com/Icenium/node-zipstream/tarball/master"
   },
